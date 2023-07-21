@@ -28,7 +28,11 @@ The model for this project is a 3-layer neural network with a softmax output lay
 
 # To-Do
 Add more intents to the dataset.
+
+
 Improve the accuracy of the model.
+
+
 Add more features to the chatbot.
 
 
