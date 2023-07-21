@@ -3,10 +3,10 @@
 This project is a chatbot that is trained on a dataset of intents. The intents are represented as a bag-of-words, and the model is a 3-layer neural network with a softmax output layer.
 
 # Requirements
-**Python 3.8+
-Keras
-NLTK
-Pickle**
+**Python 3.8+**
+**Keras**
+**NLTK**
+**Pickle**
 
 # Instructions
 **Clone the repository.
